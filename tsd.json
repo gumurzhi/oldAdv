@@ -1,0 +1,96 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "serve-static/serve-static.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "express/express.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "mime/mime.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "log4js/log4js.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "node/node.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "q/Q.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "mpromise/mpromise.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "mongodb/mongodb.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "es6-shim/es6-shim.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "bcrypt-nodejs/bcrypt-nodejs.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "passport/passport.d.ts": {
+      "commit": "e4503bad7d13c243c38201cc0b6a15981297226d"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
+    },
+    "cookie-parser/cookie-parser.d.ts": {
+      "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
+    },
+    "express-session/express-session.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    },
+    "passport-local/passport-local.d.ts": {
+      "commit": "e4503bad7d13c243c38201cc0b6a15981297226d"
+    },
+    "connect-flash/connect-flash.d.ts": {
+      "commit": "e4503bad7d13c243c38201cc0b6a15981297226d"
+    },
+    "amqplib/amqplib.d.ts": {
+      "commit": "c42b2ba16cc7f06869be1934ae829861296c2323"
+    },
+    "when/when.d.ts": {
+      "commit": "c42b2ba16cc7f06869be1934ae829861296c2323"
+    },
+    "uuid/UUID.d.ts": {
+      "commit": "07378f4a20ef709de8aea9507144fcf48c38897d"
+    },
+    "socket.io/socket.io.d.ts": {
+      "commit": "938158616b798dee483b64f13dcfc56894940e03"
+    },
+    "cookie/cookie.d.ts": {
+      "commit": "ff50a0955f163e8413886ff508793caedb6e756d"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "01a3adcdb6c2626e9c9fc340813d6f489116594d"
+    },
+    "node-schedule/node-schedule.d.ts": {
+      "commit": "0c5c7a2d2bd0ce7dcab963a8402a9042749ca2da"
+    },
+    "stripe/stripe.d.ts": {
+      "commit": "e764d154eb2d9468c6970cab91c11866c6e62c89"
+    },
+    "cors/cors.d.ts": {
+      "commit": "d7fffe8a54c993121cde3bc12d7a4cb1d219d0ce"
+    },
+    "connect-mongo/connect-mongo.d.ts": {
+      "commit": "f5ab2df94e1aabf0fc6d783ad01c4c4671760627"
+    }
+  }
+}
